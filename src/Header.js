@@ -6,7 +6,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import { Avatar } from "@material-ui/core";
 import { Link } from "react-router-dom";
 
-function Header() {
+function reHeader() {
     return (
         <div className='header'>
             <Link to='/'>
